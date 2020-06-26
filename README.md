@@ -3,4 +3,4 @@ DSP project
 
 written in python
 
-Just run the blocks and they should work.
+Just run the blocks in DSPproject and they should work.
