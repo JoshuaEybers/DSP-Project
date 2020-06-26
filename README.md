@@ -1,4 +1,6 @@
 # DSP-Project
 DSP project
 
-Just run the blocks and they should work
+written in python
+
+Just run the blocks and they should work.
